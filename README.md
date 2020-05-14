@@ -26,6 +26,6 @@ washington.csv
 
 ### Credits
 Courtesy of :
-https://www.motivateco.com/ 
+https://www.motivateco.com/ and 
 https://udacity.com
 
