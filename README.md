@@ -15,6 +15,11 @@ These technologies also provide a wealth of data that can be used to explore how
 
 In this project, I will use data provided by Motivate, a bike share system provider for many major cities in the United States,
 to uncover bike share usage patterns.I will compare the system usage between three large cities: Chicago, New York City, and Washington, DC.
+Questions to be explored:
+#1 Popular times of travel
+#2 Popular stations and trip
+#3 Trip duration
+#4 User info
 
 ### Files used
 I will answer these questions of interest about the Motivate datasets using R. 
